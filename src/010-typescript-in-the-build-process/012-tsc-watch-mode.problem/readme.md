@@ -11,3 +11,8 @@ We've now got a TypeScript file that compiles to JavaScript. But we have to run 
 See if you can find a way to run the TypeScript compiler in watch mode.
 
 Check the TypeScript [CLI Options](https://www.typescriptlang.org/docs/handbook/compiler-options.html) for help.
+
+## Solution
+
+I have run the following command: `tsc ./*.ts -w`. It ran typescript compiler in watch mode which means
+every time I edit example.ts, the example.js file is transpiler again and updated accordingly.
