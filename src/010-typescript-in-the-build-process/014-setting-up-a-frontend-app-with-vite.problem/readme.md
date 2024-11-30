@@ -17,3 +17,10 @@ See if you can find a way to set up a Vite app. You'll need to:
 - Take a look at their getting started guide
 - Delete all our existing code
 - Create a new vite app in its place
+
+## Solution
+
+I set up a new Vite project into current directory using `pnpm create vite`.
+Then I installed dependencies using `pnpm install` command.
+Finally, I ran `pnpm run dev` and looked at the generated page, tried to change
+file contents and everything was changing on-the-fly.
