@@ -12,3 +12,7 @@
 You'll notice that if you make a TypeScript error in your code, the dev server will still run.
 
 This is because the dev server _doesn't_ run the TypeScript command line `tsc` on your code. It just runs the dev server.
+
+## Solution
+
+Got it
