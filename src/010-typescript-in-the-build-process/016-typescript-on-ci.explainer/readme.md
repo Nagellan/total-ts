@@ -13,3 +13,7 @@ This means that even though you're not using TypeScript to emit JavaScript, you'
 I've written a GitHub action workflow which can run on CI. Take a look at each comment in `.github/workflows/ci.yml` and see what's going on.
 
 This can run on each commit to ensure our code is type-safe.
+
+## Solution
+
+Okay
