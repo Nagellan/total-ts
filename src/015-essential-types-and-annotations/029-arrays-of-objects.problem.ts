@@ -1,5 +1,9 @@
 type Recipe = {
   title: string;
+  ingredients: Array<{
+    name: string;
+    quantity: string;
+  }>;
   instructions: string;
 };
 
